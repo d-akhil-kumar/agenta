@@ -1,6 +1,6 @@
 # Slack Chat Summarizer (NestJS + OpenAI)
 
-A Slack plugin built with **NestJS** and **OpenAI** that summarizes chat history based on a time duration using a Slash Command.
+A Slack plugin built with **NestJS** and **OpenAI** that summarizes chat history based on a time duration using a Slash Command. 
 
 ## Features
 - **Slash Command:** `/summarize [time]` (e.g., "2 hours ago", "since 9am", "30m").
