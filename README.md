@@ -1,4 +1,4 @@
-# Slack Chat Summarizer (NestJS + OpenAI)
+# Slack bot - Chat Summarizer (NestJS + OpenAI)
 
 A Slack plugin built with **NestJS** and **OpenAI** that summarizes chat history based on a time duration using a Slash Command.
 
